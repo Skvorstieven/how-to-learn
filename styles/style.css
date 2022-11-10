@@ -148,7 +148,6 @@
   text-align: center;
   margin: 0 auto;
   padding: 0;
-  position: relative;
 }
 
 .section-title_theme_dark {
@@ -164,7 +163,6 @@
   text-align: center;
   margin: 20px auto 0;
   padding: 0;
-  position: relative;
 }
 
 .section-subtitle_theme_dark {
