@@ -29,6 +29,7 @@
 
 .header__subtitle {
   width: 388px;
+  margin: 0;
   position: absolute;
   left: 64px;
   bottom: 30px;
@@ -44,10 +45,6 @@
 }
 
 .header__main-illustration {
-  width: 765px;
-  height: 608px;
-  background-image: url("../images/header-image.png");
-  background-size: cover;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -307,7 +304,7 @@
 }
 
 .footer__author {
-  margin 18px 0;
+  margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
