@@ -1,0 +1,8 @@
+.video {
+  margin: 100px 0 0 0;
+  max-height: 440px;
+  overflow: visible;
+  display: flexbox;
+  position: relative;
+  z-index: 1;
+}
