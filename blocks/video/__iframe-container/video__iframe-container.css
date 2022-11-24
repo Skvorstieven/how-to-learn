@@ -1,0 +1,8 @@
+.video__iframe-container {
+  margin: 0;
+  padding: 0;
+}
+
+.video__iframe-container:nth-of-type(2n) {
+  margin: 0;
+}

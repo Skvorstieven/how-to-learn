@@ -3,9 +3,9 @@
   height: 38px;
   padding: 0;
   margin: 0;
+  transition: all 1s ease-out;
 }
 
 .resources__link:hover {
   opacity: 0.5;
-  transition: all 1s ease-out;
 }
