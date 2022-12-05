@@ -1,6 +1,7 @@
 .header__title {
   max-width: 730px;
-  align-self: center;
+  -ms-flex-item-align: center;
+      align-self: center;
   margin: 0 0 0 64px;
   line-height: 96px;
   font-size: 102px;

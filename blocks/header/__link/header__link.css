@@ -1,6 +1,8 @@
 .header__link {
   text-decoration: none;
   color: #2f80ed;
+  -webkit-transition: all 1s ease-out;
+  -o-transition: all 1s ease-out;
   transition: all 1s ease-out;
 }
 
